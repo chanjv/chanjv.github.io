@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there, JV here.
+Hi there, JV here. This blog will be where I pen down some of the random learnings I have.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
